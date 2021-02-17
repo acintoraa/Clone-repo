@@ -8,6 +8,6 @@
 
 This repo work's it and let´s to continue practice
 
+I need to make another pages
 
-
-# Clone repo by Adrian C
+Clone repo by Adrian C
